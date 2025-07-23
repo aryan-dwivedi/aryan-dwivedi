@@ -5,7 +5,7 @@ I've been in tech since past 3 years. I'm a computer science student who is pass
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aryandwivd@gmail.com](mailto:aryandwivd@gmail.com)
-* 🚀  I'm currently working on [Ringover](http://github.com/ringover/)
+* 🚀  I'm currently working on [Nextiva](nextiva.com)
 * 🤝  I'm open to collaborating on content creation, API projects
 
 <a href="https://www.github.com/aryan-dwivedi" target="_blank" rel="noreferrer"><img
